@@ -3,7 +3,7 @@
 🔧 CTO · Systems Thinker · Founder in Stealth  
 🧠 Operating at the intersection of AI, neurotech, and diagnostic innovation  
 🌍 Based in Switzerland | Building globally  
-📫 [remigiobongulielmi.com](https://www.remigiobongulielmi.com) | [LinkedIn](https://www.linkedin.com/in/thesingularity/)
+📫 [bongulielmi.com](https://www.remigiobongulielmi.com) | [LinkedIn](https://www.linkedin.com/in/thesingularity/)
 
 ---
 
