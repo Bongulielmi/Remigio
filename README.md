@@ -2,7 +2,7 @@
 
 🔧 CTO | Systems Thinker | Ops + AI | Lean Six Sigma MBB | 15+ yrs global XP | Trained 1200+ | Available for exec, advisory, or fractional CTO work
 🧠 Operating at the intersection of Web3, AI, neurotech, and diagnostic innovation  
-🌍 Based in Switzerland | Building globally  
+🌍 Based in Switzerland | Building globally
 📫 [bongulielmi.com](https://www.remigiobongulielmi.com) | [LinkedIn](https://www.linkedin.com/in/thesingularity/)
 
 ---
