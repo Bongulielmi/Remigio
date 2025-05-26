@@ -55,7 +55,6 @@ Open to bold teams working in:
 
 > *“Clarity is the antidote to complexity. Let’s build systems that heal — not just patch.”*  
 > — Remigio Bongulielmi
-## Hi there 👋
 
 <!--
 **Bongulielmi/Bongulielmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
