@@ -5,6 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thesingularity-blue?logo=linkedin)](https://www.linkedin.com/in/thesingularity/)
 [![Website](https://img.shields.io/badge/Website-bongulielmi.com-green)](https://www.remigiobongulielmi.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Bongulielmi-000000?logo=github&logoColor=white)](https://github.com/Bongulielmi)
 
 ---
 
