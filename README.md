@@ -4,7 +4,7 @@
 🧠 Operating at the intersection of Web3, AI, neurotech, and diagnostic innovation  
 🌍 Based in Switzerland | Building globally
 📫 [bongulielmi.com](https://www.remigiobongulielmi.com) | [LinkedIn](https://www.linkedin.com/in/thesingularity/)
-[![GitHub](https://img.shields.io/badge/GitHub-NURAi-blue?logo=github)](https://github.com/Bongulielmi/Remigio)
+[![GitHub](https://img.shields.io/badge/LinkedIn-Remigio-blue?logo=linkedin)](https://github.com/Bongulielmi/Remigio)
 [![Website](https://img.shields.io/badge/Website-nurai.health-green)](https://nurai.health)
 [![Email](https://img.shields.io/badge/Email-support@neural.clinic-red)](mailto:support@neural.clinic)
 ---
