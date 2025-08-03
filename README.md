@@ -16,7 +16,6 @@ Currently building a stealth-stage company aimed at redefining mental health out
 
 ---
 ```text
-
                  Language Usage
  ┌─────────────┬──────────┬──────────────────────┐
  │ Language    │ Percent  │ Chart                │
