@@ -4,7 +4,7 @@
 🧠 Operating at the intersection of Web3, AI, neurotech, and diagnostic innovation  
 🌍 Based in Switzerland | Building globally
 📫 [bongulielmi.com](https://www.remigiobongulielmi.com) | 
-[![GitHub](https://img.shields.io/badge/LinkedIn-thesingularity-blue?logo=linkedin)](https://www.linkedin.com/in/thesingularity/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thesingularity-blue?logo=linkedin)](https://www.linkedin.com/in/thesingularity/)
 [![Website](https://img.shields.io/badge/Website-bongulielmi.com-green)](https://www.remigiobongulielmi.com)
 ---
 
