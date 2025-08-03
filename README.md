@@ -1,6 +1,6 @@
-![Greeting SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFFFFF&background=00000000&center=false&vCenter=true&width=1000&height=50&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Remigio+Bongulielmi)
+![Greeting SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFFFFF&background=00000000&center=false&vCenter=true&repeat=false&width=1000&height=50&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Remigio+Bongulielmi)
 
-![Details SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FFFFFF&background=00000000&center=false&vCenter=true&multiline=true&width=1000&height=100&lines=%F0%9F%94%A7+CTO+%7C+Systems+Thinker+%7C+Ops+%2B+AI+%7C+Lean+Six+Sigma+MBB+%7C+15%2B+yrs+global+XP+%7C+Trained+1200%2B;%F0%9F%A7%A0+Operating+at+the+intersection+of+AI%2C+neurotech%2C+and+diagnostic+innovation;%F0%9F%8C%8D+Based+in+Switzerland+%7C+Building+globally)
+![Details SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FFFFFF&background=00000000&center=false&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=%F0%9F%94%A7+CTO+%7C+Systems+Thinker+%7C+Ops+%2B+AI+%7C+Lean+Six+Sigma+MBB+%7C+15%2B+yrs+global+XP+%7C+Trained+1200%2B;%F0%9F%A7%A0+Operating+at+the+intersection+of+AI%2C+neurotech%2C+and+diagnostic+innovation;%F0%9F%8C%8D+Based+in+Switzerland+%7C+Building+globally)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thesingularity-blue?logo=linkedin)](https://www.linkedin.com/in/thesingularity/)
