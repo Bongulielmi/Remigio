@@ -3,8 +3,8 @@
 🔧 CTO | Systems Thinker | Ops + AI | Lean Six Sigma MBB | 15+ yrs global XP | Trained 1200+                                                                       
 🧠 Operating at the intersection of Web3, AI, neurotech, and diagnostic innovation  
 🌍 Based in Switzerland | Building globally
-📫 [bongulielmi.com](https://www.remigiobongulielmi.com) | [LinkedIn]()
-[![GitHub](https://img.shields.io/badge/LinkedIn-Remigio-blue?logo=linkedin)]([https://github.com/Bongulielmi/Remigio](https://www.linkedin.com/in/thesingularity/))
+📫 [bongulielmi.com](https://www.remigiobongulielmi.com) | 
+[![GitHub](https://img.shields.io/badge/LinkedIn-Remigio-blue?logo=linkedin)](https://www.linkedin.com/in/thesingularity/))
 [![Website](https://img.shields.io/badge/Website-nurai.health-green)](https://nurai.health)
 [![Email](https://img.shields.io/badge/Email-support@neural.clinic-red)](mailto:support@neural.clinic)
 ---
