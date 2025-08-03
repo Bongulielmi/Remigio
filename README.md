@@ -5,8 +5,7 @@
 🌍 Based in Switzerland | Building globally
 📫 [bongulielmi.com](https://www.remigiobongulielmi.com) | 
 [![GitHub](https://img.shields.io/badge/LinkedIn-thesingularity-blue?logo=linkedin)](https://www.linkedin.com/in/thesingularity/)
-[![Website](https://img.shields.io/badge/Website-remigiobongulielmi.com-green)](https://www.remigiobongulielmi.com)
-[![Email](https://img.shields.io/badge/Email-support@neural.clinic-red)](mailto:support@neural.clinic)
+[![Website](https://img.shields.io/badge/Website-bongulielmi.com-green)](https://www.remigiobongulielmi.com)
 ---
 
 ## 🛠️ What I’m Focused On
@@ -18,18 +17,19 @@ Currently building a stealth-stage company aimed at redefining mental health out
 
 ---
 ```text
-                                                    Language Usage
-                                    ┌─────────────┬──────────┬──────────────────────┐
-                                    │ Language    │ Percent  │ Chart                │
-                                    ├─────────────┼──────────┼──────────────────────┤
-                                    │ Python      │ 42.5%    │ ██████████████       │
-                                    │ TypeScript  │ 27.9%    │ ████████             │
-                                    │ HTML        │ 7.6%     │ ██                   │
-                                    │ Shell       │ 7.2%     │ ██                   │
-                                    │ JavaScript  │ 7.1%     │ ██                   │
-                                    │ Swift       │ 3.0%     │ █                    │
-                                    │ Other       │ 4.7%     │ █                    │
-                                    └─────────────┴──────────┴──────────────────────┘
+
+                 Language Usage
+ ┌─────────────┬──────────┬──────────────────────┐
+ │ Language    │ Percent  │ Chart                │
+ ├─────────────┼──────────┼──────────────────────┤
+ │ Python      │ 42.5%    │ ██████████████       │
+ │ TypeScript  │ 27.9%    │ ████████             │
+ │ HTML        │ 7.6%     │ ██                   │
+ │ Shell       │ 7.2%     │ ██                   │
+ │ JavaScript  │ 7.1%     │ ██                   │
+ │ Swift       │ 3.0%     │ █                    │
+ │ Other       │ 4.7%     │ █                    │
+ └─────────────┴──────────┴──────────────────────┘
 ```
 
 ## 🧰 Tech Stack (Layered)
