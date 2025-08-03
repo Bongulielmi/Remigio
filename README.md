@@ -1,11 +1,9 @@
-```text
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&width=600&height=150&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Remigio+Bongulielmi;%F0%9F%94%A7+CTO+%7C+Systems+Thinker+%7C+Ops+%2B+AI+%7C+Lean+Six+Sigma+MBB+%7C+15%2B+yrs+global+XP+%7C+Trained+1200%2B;%F0%9F%A7%A0+Operating+at+the+intersection+of+AI%2C+neurotech%2C+and+diagnostic+innovation;%F0%9F%8C%8D+Based+in+Switzerland+%7C+Building+globally)
-```
 
-```text
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thesingularity-blue?logo=linkedin)](https://www.linkedin.com/in/thesingularity/)
 [![Website](https://img.shields.io/badge/Website-bongulielmi.com-green)](https://www.remigiobongulielmi.com)
-```
+
 ---
 
 ## 🛠️ What I’m Focused On
