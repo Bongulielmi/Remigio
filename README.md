@@ -5,7 +5,7 @@
 🌍 Based in Switzerland | Building globally
 📫 [bongulielmi.com](https://www.remigiobongulielmi.com) | 
 [![GitHub](https://img.shields.io/badge/LinkedIn-thesingularity-blue?logo=linkedin)](https://www.linkedin.com/in/thesingularity/)
-[![Website](https://img.shields.io/badge/Website-nurai.health-green)](https://nurai.health)
+[![Website](https://img.shields.io/badge/Website-remigiobongulielmi.com-green)](https://www.remigiobongulielmi.com)
 [![Email](https://img.shields.io/badge/Email-support@neural.clinic-red)](mailto:support@neural.clinic)
 ---
 
