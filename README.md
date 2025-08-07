@@ -1,8 +1,10 @@
 ![Greeting SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFFFFF&background=00000000&center=false&vCenter=true&repeat=false&width=1000&height=50&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Remigio+Bongulielmi)
 
+
 🔧 CTO | Systems Thinker | Ops + AI | Lean Six Sigma MBB | 15+ yrs global XP | Trained 1200+
 🧠 Operating at the intersection of AI, neurotech, and diagnostic innovation
 🌍 Based in Switzerland | Building globally
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thesingularity-blue?logo=linkedin)](https://www.linkedin.com/in/thesingularity/)
 [![Website](https://img.shields.io/badge/Website-bongulielmi.com-green)](https://www.remigiobongulielmi.com)
